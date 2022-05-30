@@ -27,6 +27,11 @@ h5 {
     font-size: 16px;
 }
 
+h6 {
+    color: gray;
+    text-align: right;
+    font-size: 20px;
+}
 img {
     margin: 20px;
 }
